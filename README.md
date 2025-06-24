@@ -1,4 +1,3 @@
-readme_content = """
 # Credit Card Weekly Dashboard Project
 
 ## Project Objective
@@ -106,8 +105,3 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - Delivered actionable insights supporting credit card operations and revenue optimization.
 """
 
-# Write the README content to a file
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("README.md file has been created successfully.")
