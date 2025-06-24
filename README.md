@@ -103,5 +103,5 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - Improved stakeholder decision-making speed by 35% through real-time monitoring.  
 - Enabled targeted marketing and product strategies based on customer segmentation and transaction trends.  
 - Delivered actionable insights supporting credit card operations and revenue optimization.
-"""
+
 
